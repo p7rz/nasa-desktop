@@ -3,7 +3,6 @@ import json
 import os
 import cv2
 import socket
-import random
 
 api_count = 25
 
